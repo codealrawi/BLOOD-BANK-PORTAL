@@ -10,10 +10,10 @@ The Blood Bank Portal is a Python-based web application designed to manage and f
 - Notification system: Donors and recipients receive notifications for successful blood donations or when a donation request is made.
 
 ## Technologies Used
-- Python
-- Flask (Web framework)
-- HTML/CSS
-- SQLite (Database)
+- HTML5
+- CSS3
+- JavaScript
+- MySQL (Database)
 
 ## Setup Instructions
 1. Clone the repository:
