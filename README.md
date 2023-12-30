@@ -21,19 +21,19 @@ The Blood Bank Portal is a Python-based web application designed to manage and f
    git clone https://github.com/codealrawi/blood-bank-portal.git
    cd blood-bank-portal
 
-## Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Set up the database:
+3. Set up the database:
 ```bash
 python manage.py db upgrade
 ```
-Run the application:
+4. Run the application:
 ```bash
 python run.py
 ```
-Access the portal at http://localhost:5000.
+5. Access the portal at http://localhost:5000.
 
 ## Usage
 - Visit the portal and register for an account.
