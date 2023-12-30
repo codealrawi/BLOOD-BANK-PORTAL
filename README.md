@@ -38,3 +38,5 @@ python run.py
 
 ## Contact
 For any questions or inquiries, please contact support@alrawi.ru.
+![Рисуgнок1](https://github.com/codealrawi/BLOOD-BANK-PORTAL-interface/assets/91510132/70f2e369-97e9-4c80-8bab-3007bf32a6bc)
+![Рисуhнок2](https://github.com/codealrawi/BLOOD-BANK-PORTAL-interface/assets/91510132/d326259d-2cf1-40a0-be0a-b27c4d0e1b82)
