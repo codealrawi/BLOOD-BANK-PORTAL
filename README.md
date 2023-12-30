@@ -13,6 +13,7 @@ The Blood Bank Portal is a Python-based web application designed to manage and f
 - HTML5
 - CSS3
 - JavaScript
+- PHP
 - MySQL (Database)
 
 ## Setup Instructions
