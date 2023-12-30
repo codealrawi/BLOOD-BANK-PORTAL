@@ -35,19 +35,19 @@ python run.py
 ```
 Access the portal at http://localhost:5000.
 
-Usage
-Visit the portal and register for an account.
-Log in with your credentials.
-Donors can view and manage their profiles, while administrators can manage donor information and recipients can submit blood donation requests.
-Receive notifications for successful donations or donation requests.
-Contributing
+##Usage
+- Visit the portal and register for an account.
+- Log in with your credentials.
+- Donors can view and manage their profiles, while administrators can manage donor information and recipients can submit blood donation requests.
+- Receive notifications for successful donations or donation requests.
+
+##Contributing
 If you'd like to contribute to the project, please follow these steps:
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit them.
+- Push your branch to your fork.
+- Submit a pull request to the main repository.
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them.
-Push your branch to your fork.
-Submit a pull request to the main repository.
-
-Contact
+##Contact
 For any questions or inquiries, please contact support@alrawi.ru.
