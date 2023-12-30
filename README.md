@@ -15,13 +15,13 @@ The Blood Bank Portal is a Python-based web application designed to manage and f
 - HTML/CSS
 - SQLite (Database)
 
-##Setup Instructions
+## Setup Instructions
 1. Clone the repository:
    ```bash
    git clone https://github.com/codealrawi/blood-bank-portal.git
    cd blood-bank-portal
 
-##Install dependencies:
+## Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -35,13 +35,13 @@ python run.py
 ```
 Access the portal at http://localhost:5000.
 
-##Usage
+## Usage
 - Visit the portal and register for an account.
 - Log in with your credentials.
 - Donors can view and manage their profiles, while administrators can manage donor information and recipients can submit blood donation requests.
 - Receive notifications for successful donations or donation requests.
 
-##Contributing
+## Contributing
 If you'd like to contribute to the project, please follow these steps:
 - Fork the repository.
 - Create a new branch for your feature or bug fix.
@@ -49,5 +49,5 @@ If you'd like to contribute to the project, please follow these steps:
 - Push your branch to your fork.
 - Submit a pull request to the main repository.
 
-##Contact
+## Contact
 For any questions or inquiries, please contact support@alrawi.ru.
